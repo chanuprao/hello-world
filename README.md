@@ -1,6 +1,6 @@
 # hello-world
 
-## Hey there!
+## Hey Everyone!
 
 ## Welcome !
 Thanks for visiting my profile.
